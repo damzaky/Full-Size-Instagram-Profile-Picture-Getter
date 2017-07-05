@@ -8,4 +8,4 @@ So some times ago I was wondering if I could download a profile picture from ins
 This repo is only making the thing that I explained above easier, so that you can obtain the URL of the full image directly by only entering the instagram username
 
 ## How it works
-Just upload the `engine.php` to your hosting (remember to use HTTPS), then to use it just visit https://yourhosting.com/engine.php?u=`USERNAME` specify the USERNAME at your will. The page will return a displayed profile image.
+Just upload the `engine.php` to your hosting (remember to use HTTPS), then to use it just visit `https://yourhosting.com/engine.php?u=USERNAME` specify the USERNAME at your will. The page will return a displayed profile image.
