@@ -9,3 +9,6 @@ This repo is only making the thing that I explained above easier, so that you ca
 
 ## How it works
 Just upload the `engine.php` to your hosting (remember to use HTTPS), then to use it just visit `https://yourhosting.com/engine.php?u=USERNAME` specify the USERNAME at your will. The page will return a displayed profile image.
+
+## Notes
+The method that I use on this repository is probably not the best method, since I assume that the first image in a profile page is always the profile picture, if instagram change this situation, a change on the array index will be needed.
