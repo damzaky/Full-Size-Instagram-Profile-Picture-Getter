@@ -1,5 +1,5 @@
 # Full-Size-Instagram-Profile-Picture-Getter
-Fetch instagram full size profile picture URL
+Fetch instagram full size profile picture URL, demo here: https://damzaky.github.io/generator/Full-Size-Instagram-Profile-Picture-Getter
 
 ## Background
 So some times ago I was wondering if I could download a profile picture from instagram, I could easily do that by right click on the image and save it, the problem was that it's not in its full size. I made a little experiment to find out that to get the full size of the image I only have to remove `/150x150` from the image URL.
